@@ -7,7 +7,7 @@ This is a simple smart contract made by using ethers.js, which allows users to s
 Clone this repo
 
 ```
-git clone
+git clone https://github.com/0xSanyam/ethers-simple-storage
 ```
 
 Then install dependencies
